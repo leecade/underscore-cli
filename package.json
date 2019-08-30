@@ -6,7 +6,7 @@
   "dependencies": {
     "underscore": ">= 1.3.3",
     "underscore.string": "*",
-    "commander": "*",
+    "commander": ">=3.0.1",
     "coffee-script": "*",
     "JSONSelect": "*"
   },
